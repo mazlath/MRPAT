@@ -1,5 +1,5 @@
 # RPTWorkaround
-***NOTICE*** REQUIRES YOU TO OWN AT LEAST ONE STEAM GAME WITH REMOTE PLAY TOGETHER TO WORK ***NOTICE***
+***NOTICE:*** REQUIRES YOU TO OWN AT LEAST ONE STEAM GAME WITH REMOTE PLAY TOGETHER TO WORK 
 -------------------------------------------------------------------------------------------------------
 
 This is a cheeky little work around to get Steam Remote Play Together to work with pretty much any game you want.
