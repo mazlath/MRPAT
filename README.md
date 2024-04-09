@@ -1,4 +1,4 @@
-# RPTWorkaround
+# Maz's Remote Play Anything Together
 ***NOTICE:*** REQUIRES YOU TO OWN AT LEAST ONE STEAM GAME WITH REMOTE PLAY TOGETHER TO WORK 
 -------------------------------------------------------------------------------------------------------
 
