@@ -6,7 +6,7 @@ This is a cheeky little work around to get Steam Remote Play Together to work wi
 
 
 
-Step 1:  Place both files MRPAT.bat, and GameNameHere.exe) in to the location of a game '.exe' that already has remote play together.
+Step 1:  Place both files (MRPAT.bat, and GameNameHere.exe) in to the location of a game '.exe' that already has remote play together.
 
 Step 2:  Rename the original games '.exe' to something else  (i recommend just adding -backup to its name).
 
